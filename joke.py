@@ -48,7 +48,7 @@ class JokeIntentHandler(AbstractRequestHandler):
         return ask_utils.is_intent_name("JokeIntent")(handler_input)
 
     def handle(self, handler_input):
-        speak_output = "Here's a sample joke for you." + "random.choice(jokes)"
+        speak_output = random.choice(jokes)
 
         return (
             handler_input.response_builder

@@ -12,7 +12,7 @@
         "filePath": "joke.py",
         "cursor": {
           "lineNumber": 51,
-          "column": 80
+          "column": 44
         },
         "config": {
           "runtime": "python3.8",
@@ -77,7 +77,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1585305579286
+    "lastSave": 1585305711626
   },
   "VCS_STATE": {
     "provider": "GitHub",
