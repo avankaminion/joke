@@ -1,33 +1,42 @@
 {
   "EDITOR_STATE": {
     "allProjectFiles": {
-      "89d1b75c-4705-450a-8bf4-34d0903b2633": {
-        "id": "89d1b75c-4705-450a-8bf4-34d0903b2633",
+      "c9fec43d-5e06-4d58-93a1-924b2289a39b": {
+        "id": "c9fec43d-5e06-4d58-93a1-924b2289a39b",
         "parent": null,
-        "name": "joke.js",
-        "type": "JS_LAMBDA",
+        "name": "joke.py",
+        "type": "PYTHON_LAMBDA",
         "isDirectory": false,
         "children": [],
         "isRemovable": true,
-        "filePath": "joke.js",
+        "filePath": "joke.py",
         "cursor": {
-          "lineNumber": 3,
+          "lineNumber": 4,
           "column": 1
         },
         "config": {
-          "runtime": "nodejs10.x",
+          "runtime": "python3.8",
           "handler": "handler",
           "timeout": 60,
           "memory": 128,
           "layers": []
         },
-        "triggers": []
+        "triggers": [],
+        "testCases": {
+          "613076ac-2b09-4b35-99f8-31b503a7b1ce": {
+            "id": "613076ac-2b09-4b35-99f8-31b503a7b1ce",
+            "name": "Test event",
+            "functionId": "c9fec43d-5e06-4d58-93a1-924b2289a39b",
+            "event": "{\n    \"key1\": \"value1\",\n    \"key2\": \"value2\",\n    \"key3\": \"value3\"\n}",
+            "eventTemplate": "hello-world"
+          }
+        }
       }
     },
     "openFiles": [
-      "89d1b75c-4705-450a-8bf4-34d0903b2633"
+      "c9fec43d-5e06-4d58-93a1-924b2289a39b"
     ],
-    "currentFileId": "89d1b75c-4705-450a-8bf4-34d0903b2633",
+    "currentFileId": "c9fec43d-5e06-4d58-93a1-924b2289a39b",
     "resources": {},
     "customTemplate": {
       "dialect": null,
@@ -55,7 +64,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1585299488727
+    "lastSave": 1585300371689
   },
   "VCS_STATE": {
     "provider": "GitHub",
