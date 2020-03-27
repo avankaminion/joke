@@ -30,7 +30,7 @@ jokes = [
         "Why are eggs not very much into jokes? Because they could crack up.",
         " Farting in a lift is wrong on so many levels!",
         "Two atoms are walking down the street. One atom says to the other, “Hey! I think I lost an electron! The other asks, “Are you sure?” “Yes, I’m positive!”",
-        "I went to the library to get a medical book on abdominal pain.I went to the library to get a medical book on abdominal pain. Somebody had torn the appendix out.",
+        "I went to the library to get a medical book on abdominal pain. Somebody had torn the appendix out.",
         "Why did Shakespeare write with ink? Because he couldn't decide what pencil to use... 2B or not 2B!",
         "Want to hear a joke about a balloon? Oh wait, it just got away from me!",
         "Did you hear the rumour about butter? Well, I’m not going to spread it!"
