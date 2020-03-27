@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "joke.py",
         "cursor": {
-          "lineNumber": 51,
-          "column": 44
+          "lineNumber": 32,
+          "column": 111
         },
         "config": {
           "runtime": "python3.8",
@@ -77,7 +77,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1585305711626
+    "lastSave": 1585307590345
   },
   "VCS_STATE": {
     "provider": "GitHub",

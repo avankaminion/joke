@@ -22,7 +22,19 @@ jokes = [
         "I woke up this morning and forgot which side the sun rises from, then it dawned on me.",
         "I recently decided to sell my vacuum cleaner as all it was doing was gathering dust.",
         "If you shouldn't eat at night, why do they put a light in the fridge?",
-        ]
+        "My socks got really holy. I can only wear them to church.",
+        "I fear my stuttering brother may never finish his prison sentence.",
+        "The longest I’ve ever gone without a pun was 7 days. Pretty weak.",
+        "This gravity joke is getting a bit old, but I fall for it every time.",
+        "What happens when a cop gets into bed? He becomes an undercover cop.",
+        "Why are eggs not very much into jokes? Because they could crack up.",
+        " Farting in a lift is wrong on so many levels!",
+        "Two atoms are walking down the street. One atom says to the other, “Hey! I think I lost an electron! The other asks, “Are you sure?” “Yes, I’m positive!”",
+        "I went to the library to get a medical book on abdominal pain.I went to the library to get a medical book on abdominal pain. Somebody had torn the appendix out.",
+        "Why did Shakespeare write with ink? Because he couldn't decide what pencil to use... 2B or not 2B!",
+        "Want to hear a joke about a balloon? Oh wait, it just got away from me!",
+        "Did you hear the rumour about butter? Well, I’m not going to spread it!"
+  ]
 
 
 class LaunchRequestHandler(AbstractRequestHandler):
