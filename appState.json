@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "joke.py",
         "cursor": {
-          "lineNumber": 37,
-          "column": 132
+          "lineNumber": 71,
+          "column": 29
         },
         "config": {
           "runtime": "python3.8",
@@ -59,6 +59,12 @@
           "version": "1.13.0",
           "dev": false,
           "language": "python"
+        },
+        "ask-sdk-core": {
+          "name": "ask-sdk-core",
+          "version": "1.13.0",
+          "dev": false,
+          "language": "python"
         }
       }
     }
@@ -71,7 +77,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1585302714462
+    "lastSave": 1585305245535
   },
   "VCS_STATE": {
     "provider": "GitHub",
