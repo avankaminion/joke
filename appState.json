@@ -1,0 +1,67 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "89d1b75c-4705-450a-8bf4-34d0903b2633": {
+        "id": "89d1b75c-4705-450a-8bf4-34d0903b2633",
+        "parent": null,
+        "name": "joke.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "joke.js",
+        "cursor": {
+          "lineNumber": 3,
+          "column": 1
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": []
+        },
+        "triggers": []
+      }
+    },
+    "openFiles": [
+      "89d1b75c-4705-450a-8bf4-34d0903b2633"
+    ],
+    "currentFileId": "89d1b75c-4705-450a-8bf4-34d0903b2633",
+    "resources": {},
+    "customTemplate": {
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "joke",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1585299488727
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "joke",
+      "url": "https://github.com/avankaminion/joke"
+    }
+  }
+}
