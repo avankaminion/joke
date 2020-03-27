@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "joke.py",
         "cursor": {
-          "lineNumber": 4,
-          "column": 1
+          "lineNumber": 37,
+          "column": 132
         },
         "config": {
           "runtime": "python3.8",
@@ -27,7 +27,7 @@
             "id": "613076ac-2b09-4b35-99f8-31b503a7b1ce",
             "name": "Test event",
             "functionId": "c9fec43d-5e06-4d58-93a1-924b2289a39b",
-            "event": "{\n    \"key1\": \"value1\",\n    \"key2\": \"value2\",\n    \"key3\": \"value3\"\n}",
+            "event": "{\n\t\"version\": \"1.0\",\n\t\"session\": {\n\t\t\"new\": false,\n\t\t\"sessionId\": \"amzn1.echo-api.session.020a5043-0ec0-4580-ae49-c3e5a8d7cab7\",\n\t\t\"application\": {\n\t\t\t\"applicationId\": \"amzn1.ask.skill.f8ffb6ff-7329-4ab8-9316-9a65ee06d234\"\n\t\t},\n\t\t\"user\": {\n\t\t\t\"userId\": \"amzn1.ask.account.AG5KZ5DEA253AKKDSGLA6EXJOZRWCXAEAQK6SWHHL3MEM2AANRSCDEQPXSHVFSKSWTMTVEW2MRNYGNXDBJGCWWQUE3P7OM7ZAW6GPCW3BYBDUUUU42FYUVOZMX6S5Z2JZKNAJS2N3WOE5Z6AYYMKR6HM24XSMF2BNDNG6H652SKPB4NNHIZXUCSQ3THIG7XN4RYVUJKJ65AO3SI\"\n\t\t}\n\t},\n\t\"context\": {\n\t\t\"System\": {\n\t\t\t\"application\": {\n\t\t\t\t\"applicationId\": \"amzn1.ask.skill.f8ffb6ff-7329-4ab8-9316-9a65ee06d234\"\n\t\t\t},\n\t\t\t\"user\": {\n\t\t\t\t\"userId\": \"amzn1.ask.account.AG5KZ5DEA253AKKDSGLA6EXJOZRWCXAEAQK6SWHHL3MEM2AANRSCDEQPXSHVFSKSWTMTVEW2MRNYGNXDBJGCWWQUE3P7OM7ZAW6GPCW3BYBDUUUU42FYUVOZMX6S5Z2JZKNAJS2N3WOE5Z6AYYMKR6HM24XSMF2BNDNG6H652SKPB4NNHIZXUCSQ3THIG7XN4RYVUJKJ65AO3SI\"\n\t\t\t},\n\t\t\t\"device\": {\n\t\t\t\t\"deviceId\": \"amzn1.ask.device.AFI3SSLWTRDJFRDFOBWUBZQWYHOBEFMUVKIDQUJRGJYEZHTE5KRKEECQ3EZESC6BWLPHTTWEMIHCF76IFTFF7ZPPSPU2K5TLTEAP6ZKXSDIG4J4Z77ZSU3C6VUAPU3LRUOJUN2ZGUVZGXQ7BVKDXTBS4WDLUYU67QIVUJI6QXL3TTBBHER7RG\",\n\t\t\t\t\"supportedInterfaces\": {}\n\t\t\t},\n\t\t\t\"apiEndpoint\": \"https://api.amazonalexa.com\",\n\t\t\t\"apiAccessToken\": \"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLmY4ZmZiNmZmLTczMjktNGFiOC05MzE2LTlhNjVlZTA2ZDIzNCIsImV4cCI6MTU4NTMwMTI0MCwiaWF0IjoxNTg1MzAwOTQwLCJuYmYiOjE1ODUzMDA5NDAsInByaXZhdGVDbGFpbXMiOnsiY29udGV4dCI6IkFBQUFBQUFBQUFDL1QwcFVrWDJHcGNndllQWC84K0s3S3dFQUFBQUFBQUQrK3R0THVsY0R4SE9UMDJUeVR0Q1p3djNJbGh6aUNsZVkvYUhweWhrUDNJM2g1bUZUT094MnR4dFpWWDFjMElJeXhsMG5sVVpXbnpMaXZ0UVZNbzE5ZFRiMjRUaml1ODUzMmNFa3N5V2w3SzR0dnNFWXZadm5XbCtKLzhhVkpaZENFZjhnbUpPbVVGU1BUd080TUlNQXdVRnd5MVJkQkRBUEl2NzRCT0R0WGx3bW12RE84M20xN214akh2SHZtM0locFBJaVBkQnQ5ZHVlZWZPdGFOaEozbS9PZXYwZmN0SXRKVmVOQVhDVEUyU2U1OWxLU1VOb0F4UzlNdlZYQlRTUk01ejNMY0MvdWxsRlZFMElZR1B5ZmEwYWpTM2c1UHNZaCtmMnNTZ2FjTEgyeDEyL3hhVC9yZW5UenRreUFOYmpkTjlhbC9ibVA2QXd3UnE3SGc5ZlNHaUJURGMyK2wzbEdpdGtmazNjaTV1MndQRWVHbFZMUUplbnRxUWhxVkltb0Fra3pEaG45bGhRa1E9PSIsImNvbnNlbnRUb2tlbiI6bnVsbCwiZGV2aWNlSWQiOiJhbXpuMS5hc2suZGV2aWNlLkFGSTNTU0xXVFJESkZSREZPQldVQlpRV1lIT0JFRk1VVktJRFFVSlJHSllFWkhURTVLUktFRUNRM0VaRVNDNkJXTFBIVFRXRU1JSENGNzZJRlRGRjdaUFBTUFUySzVUTFRFQVA2WktYU0RJRzRKNFo3N1pTVTNDNlZVQVBVM0xSVU9KVU4yWkdVVlpHWFE3QlZLRFhUQlM0V0RMVVlVNjdRSVZVSkk2UVhMM1RUQkJIRVI3UkciLCJ1c2VySWQiOiJhbXpuMS5hc2suYWNjb3VudC5BRzVLWjVERUEyNTNBS0tEU0dMQTZFWEpPWlJXQ1hBRUFRSzZTV0hITDNNRU0yQUFOUlNDREVRUFhTSFZGU0tTV1RNVFZFVzJNUk5ZR05YREJKR0NXV1FVRTNQN09NN1pBVzZHUENXM0JZQkRVVVVVNDJGWVVWT1pNWDZTNVoySlpLTkFKUzJOM1dPRTVaNkFZWU1LUjZITTI0WFNNRjJCTkRORzZINjUyU0tQQjROTkhJWlhVQ1NRM1RISUc3WE40UllWVUpLSjY1QU8zU0kifX0.LaLnI7sPL8kEMBWj01PfrAjJhprAFPMlLk42nbOqn0PjQUcRwz3Kt0J4XSAyoTvAhAGBooji-fpFbQrpbzfy0ONEHgx0YzuNTi_L3JBqmLKqWsNyy5UdUrabplFmy1Wd2O84TdrJojmnVhTPGwfSYgUprrO6GoiU5yTmPnP5ILLxEaf67afayXRDwlrS6Wk3piDfbAiSvuxt7LbgG_berkl1zlFuMxkdSj-ZUok7MaZB5LzjPM5wlEykCTWTfllIohn87tEMOvi4L7jQrYRlIVY0Bc5to8P8aE-uPcq9IYwJiwAHnnjYBHuLqTzsOBsOfUWwsJiRp-Pnwdt43iERTw\"\n\t\t},\n\t\t\"Viewport\": {\n\t\t\t\"experiences\": [\n\t\t\t\t{\n\t\t\t\t\t\"arcMinuteWidth\": 246,\n\t\t\t\t\t\"arcMinuteHeight\": 144,\n\t\t\t\t\t\"canRotate\": false,\n\t\t\t\t\t\"canResize\": false\n\t\t\t\t}\n\t\t\t],\n\t\t\t\"shape\": \"RECTANGLE\",\n\t\t\t\"pixelWidth\": 1024,\n\t\t\t\"pixelHeight\": 600,\n\t\t\t\"dpi\": 160,\n\t\t\t\"currentPixelWidth\": 1024,\n\t\t\t\"currentPixelHeight\": 600,\n\t\t\t\"touch\": [\n\t\t\t\t\"SINGLE\"\n\t\t\t],\n\t\t\t\"video\": {\n\t\t\t\t\"codecs\": [\n\t\t\t\t\t\"H_264_42\",\n\t\t\t\t\t\"H_264_41\"\n\t\t\t\t]\n\t\t\t}\n\t\t},\n\t\t\"Viewports\": [\n\t\t\t{\n\t\t\t\t\"type\": \"APL\",\n\t\t\t\t\"id\": \"main\",\n\t\t\t\t\"shape\": \"RECTANGLE\",\n\t\t\t\t\"dpi\": 160,\n\t\t\t\t\"presentationType\": \"STANDARD\",\n\t\t\t\t\"canRotate\": false,\n\t\t\t\t\"configuration\": {\n\t\t\t\t\t\"current\": {\n\t\t\t\t\t\t\"video\": {\n\t\t\t\t\t\t\t\"codecs\": [\n\t\t\t\t\t\t\t\t\"H_264_42\",\n\t\t\t\t\t\t\t\t\"H_264_41\"\n\t\t\t\t\t\t\t]\n\t\t\t\t\t\t},\n\t\t\t\t\t\t\"size\": {\n\t\t\t\t\t\t\t\"type\": \"DISCRETE\",\n\t\t\t\t\t\t\t\"pixelWidth\": 1024,\n\t\t\t\t\t\t\t\"pixelHeight\": 600\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t}\n\t\t]\n\t},\n\t\"request\": {\n\t\t\"type\": \"SessionEndedRequest\",\n\t\t\"requestId\": \"amzn1.echo-api.request.066cbe44-2225-4de6-a010-a35dd7610f17\",\n\t\t\"timestamp\": \"2020-03-27T09:22:21Z\",\n\t\t\"locale\": \"en-US\",\n\t\t\"reason\": \"ERROR\",\n\t\t\"error\": {\n\t\t\t\"type\": \"INVALID_RESPONSE\",\n\t\t\t\"message\": \"SpeechletResponse was null\"\n\t\t}\n\t}\n}",
             "eventTemplate": "hello-world"
           }
         }
@@ -64,7 +64,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1585300371689
+    "lastSave": 1585301587052
   },
   "VCS_STATE": {
     "provider": "GitHub",
